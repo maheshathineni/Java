@@ -26,7 +26,7 @@ public class GetAlienController extends HttpServlet {
   }
   
   
-   RequestDispatcher in Servlet
+ RequestDispatcher in Servlet
 RequestDispatcher Interface
 Methods of RequestDispatcher interface
 forward method
